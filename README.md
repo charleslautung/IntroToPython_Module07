@@ -14,3 +14,4 @@ GitHub Website
 (2) Ammending to a Pickle File: https://www.techbeamers.com/use-try-except-python/
 
 **Screen Shot Of Windows Command Window**
+![alt text](https://github.com/charleslautung/IntroToPython_Module07/blob/main/Assignment07_ScreenShot.jpg "Screenshot")
